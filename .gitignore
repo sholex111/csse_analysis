@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Local data and generated analysis outputs
+*.csv
+*.xlsx
+*.xls
+*.pdf
+data/
+
+# R analysis and IDE state
+Csse_R_analysis/
+csse_R_analysis/
+R/
+*.Rproj
+.Rproj.user/
+.Rhistory
+.RData
+
+# Local OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
